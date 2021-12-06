@@ -1,6 +1,6 @@
 ### Install dependencies
 ```
-$ yarn
+yarn
 ```
 
 ### `yarn start`
